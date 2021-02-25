@@ -5,7 +5,7 @@ import java.util.List;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.*;
 
-import com.formacionbdi.springboot.app.item.models.Producto;
+import com.formacionbdi.springboot.app.commons.models.entity.Producto;
 
 @FeignClient(name  = "servicio-productos")
 public interface ProductoClienteRest {

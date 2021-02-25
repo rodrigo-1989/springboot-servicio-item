@@ -16,7 +16,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import com.formacionbdi.springboot.app.item.models.Item;
-import com.formacionbdi.springboot.app.item.models.Producto;
+import com.formacionbdi.springboot.app.commons.models.entity.Producto;
 import com.formacionbdi.springboot.app.item.models.service.ItemService;
 import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
 
