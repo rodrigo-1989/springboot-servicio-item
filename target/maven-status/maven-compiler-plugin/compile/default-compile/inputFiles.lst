@@ -1,0 +1,8 @@
+/Users/rodrigo/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/springboot-servicio-item/src/main/java/com/formacionbdi/springboot/app/item/models/Item.java
+/Users/rodrigo/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/springboot-servicio-item/src/main/java/com/formacionbdi/springboot/app/item/AppConfig.java
+/Users/rodrigo/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/springboot-servicio-item/src/main/java/com/formacionbdi/springboot/app/item/models/service/ItemServiceFeign.java
+/Users/rodrigo/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/springboot-servicio-item/src/main/java/com/formacionbdi/springboot/app/item/SpringbootServicioItemApplication.java
+/Users/rodrigo/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/springboot-servicio-item/src/main/java/com/formacionbdi/springboot/app/item/controllers/ItemController.java
+/Users/rodrigo/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/springboot-servicio-item/src/main/java/com/formacionbdi/springboot/app/item/models/service/ItemServiceImpl.java
+/Users/rodrigo/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/springboot-servicio-item/src/main/java/com/formacionbdi/springboot/app/item/models/service/ItemService.java
+/Users/rodrigo/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/springboot-servicio-item/src/main/java/com/formacionbdi/springboot/app/item/clientes/ProductoClienteRest.java
